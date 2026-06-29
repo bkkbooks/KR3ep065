@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR3ep065/v1
+canonical_location: https://kanripo.org/bkk/KR3ep065/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 汪藝香先生醫案
+  identifiers:
+    krp: KR3ep065
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep065.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep065_000.yaml, hash: 'sha256:5bfa316d12257b96ef8cd718cf9697eb96e836db71c5982e0238e4912a045902'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep065_000.markers.yaml, hash: 'sha256:e746b02558c7e679b1f24cd8b0fe0cf2af66c1117c85d6353649f38b382f7326'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep065_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 140
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep065_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 6786
+  label: 上
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep065_jc_000-d4.h1s1
+    span:
+    - body
+    - 6786
+    - 17589
+  label: 中
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep065_jc_000-d5.h1s1
+    span:
+    - body
+    - 17589
+    - 35555
+  label: 下
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep065_jc_000-d6.h1s1
+    span:
+    - body
+    - 35555
+    - 46936
+  label: 汪藝香先生醫案
+  type: section
+  level: 1
+hash: sha256:b775d8143df908e7f593fc34eafe85d4d6b906be524daae5fc57c953c7011830
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
