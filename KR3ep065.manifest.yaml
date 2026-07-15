@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep065/v1
 canonical_location: https://kanripo.org/bkk/KR3ep065/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 汪藝香先生醫案
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep065_000.yaml, hash: 'sha256:f5affa7aa239bdfd0bd244b3a69423cfe6ed77544c59d9f8d2edc2377153ba52'}
+  - {seq: 0, filename: KR3ep065_000.yaml, hash: 'sha256:faafa411fc6577f2502b904973f9cbb4c2df1253e50c81de7970aee9fdde3d6c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep065_000.markers.yaml, hash: 'sha256:7cc9c0f366c2db243a72605714987bdd79c093997c3b8c17ad523b877c586ca5'}
+  - {seq: 0, role: markers, filename: assets/KR3ep065_000.markers.yaml, hash: 'sha256:ea8e95b960771090e3c7a19b82a3eb54425710c47e6149a936fa39052f3cae01'}
 table_of_contents:
 - ref:
     seq: 0
@@ -70,4 +70,7 @@ table_of_contents:
   label: 汪藝香先生醫案
   type: section
   level: 1
-hash: sha256:1e8643b1f912a5a15ff7c153295545594e127195f409b3eda77e9146fdcf720e
+hash: sha256:b60cd4795cbf6d0b1a62a47ac0d29035c9a5841dc4ab85b8046ac47879b9fd00
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
