@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep065_000.yaml, hash: 'sha256:faafa411fc6577f2502b904973f9cbb4c2df1253e50c81de7970aee9fdde3d6c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep065_000.markers.yaml, hash: 'sha256:ea8e95b960771090e3c7a19b82a3eb54425710c47e6149a936fa39052f3cae01'}
+  - {seq: 0, role: markers, filename: assets/KR3ep065_000.markers.yaml, hash: 'sha256:26c3293e302744aa3d86570f45ddeaa9ee30b8870ec191cf1c59b6db8b814909'}
 table_of_contents:
 - ref:
     seq: 0
@@ -70,7 +70,7 @@ table_of_contents:
   label: 汪藝香先生醫案
   type: section
   level: 1
-hash: sha256:b60cd4795cbf6d0b1a62a47ac0d29035c9a5841dc4ab85b8046ac47879b9fd00
+hash: sha256:cdfd2db8ad1fc4de772f5f9e6fad8533c9e2ef29960348526a5fbc5b79c9bcdf
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
